@@ -1,6 +1,0 @@
-RENCANA KONTEN WPS
-
-- Javascript
-- PHP Framework
-- Interview
-- Vlogs
