@@ -3,9 +3,11 @@ RENCANA CONTENT WPS
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+    ^ Vue
+    ^ React JS
+- Struktur Data Dasar
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlogs
+- Python
